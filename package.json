@@ -8,7 +8,7 @@
   "repository": "github:simonfuhrmann/firepass",
   "scripts": {
     "start": "parcel index.html --no-cache",
-    "build": "parcel build index.html --out-dir dist",
+    "build": "parcel build index.html --out-dir public",
     "clean": "rm -rf .cache/ dist/"
   },
   "dependencies": {
